@@ -1,2 +1,4 @@
 # hello-world
-Repository for github tutorial
+This is a repository for github tutorial
+
+Hello! I am codingseal.
